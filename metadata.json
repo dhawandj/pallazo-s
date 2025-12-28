@@ -1,0 +1,8 @@
+
+{
+  "name": "Pallazo's | Premier Bangalore Construction",
+  "description": "Pallazo's specializes in end-to-end construction, interior design, and project management in Bangalore. Expert turnkey solutions for modern homes.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
